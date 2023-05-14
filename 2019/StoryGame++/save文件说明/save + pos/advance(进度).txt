@@ -1,0 +1,7 @@
+vrfcode // 存档效验码
+edittime// 存档最近一次编辑时间
+moral // 道德值
+IQ // 智慧值
+HQ // 健康值
+EQ // 社交值
+wealth // 财富

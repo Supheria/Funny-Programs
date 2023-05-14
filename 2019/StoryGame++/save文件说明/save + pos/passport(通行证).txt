@@ -1,0 +1,5 @@
+num // 身份编号
+status // 身份状态
+settime // 身份确立时间
+name // 名称
+career // 职业
